@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
     console.log("react test");
     console.log("react test2");
+    console.log("react test3");
     return (
         <div className="App">
             <header className="App-header">
