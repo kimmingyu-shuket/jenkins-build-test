@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "node_modules remove."
+rm -r node_modules
 
 echo "npm install start."
 npm install
