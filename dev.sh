@@ -3,10 +3,10 @@ echo "node_modules remove."
 rm -r node_modules
 
 echo "npm install start."
-npm install
+# npm install
 echo "npm install success."
 
 echo "npm build start."
-npm run build
+# npm run build
 echo "npm build end"
 ls -al
